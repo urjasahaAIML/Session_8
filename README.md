@@ -3,12 +3,13 @@
 Assignment is to train and test with resnet18 model. Code has to be in modularized.
 
 # modules:
-1. Main.py:         Controller module. It can orchestrate the workflow to load data, train and test a model
-2. dataloader.py:   This is the data loader module. 
-3. model_resnet.py: Defines Resnet18 model
-4. utils.py:        Utilities to display sample images etc
-5. training.py:     Defines function for creating a model, print model summary, test the model
-6. testing.py:      Defines function testing a trained model, display statts about hits and misses in prediction.
+1. Main.py:             Controller module. It can orchestrate the workflow to load data, train and test a model
+2. dataloader.py:       This is the data loader module. 
+3. model_resnet.py:     Defines Resnet18 model
+4. utils.py:            Utilities to display sample images etc
+5. hyperparameters.py:  Defines learning rate, batch size, scheduler milestones etc
+6. training.py:         Defines function for creating a model, print model summary, test the model
+7. testing.py:          Defines function testing a trained model, display statts about hits and misses in prediction.
 
 # Model
 Resnet18 

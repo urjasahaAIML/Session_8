@@ -3,7 +3,7 @@
 
 # Assignment:
 
-Train and test with resnet18 model. Code has to be in modularized.
+Train and test CIFAR10 dataset with resnet18 model. Code has to be in modularized.
 
 # Result
 

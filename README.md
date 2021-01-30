@@ -3,7 +3,7 @@
 Assignment is to train and test with resnet18 model. Code has to be in modularized.
 
 # modules:
-1. Main.py:             Controller module. It can orchestrate the workflow to load data, train and test a model
+1. main.py:             Controller module. It can orchestrate the workflow to load data, train and test a model
 2. dataloader.py:       This is the data loader module. 
 3. model_resnet.py:     Defines Resnet18 model
 4. utils.py:            Utilities to display sample images etc
@@ -21,15 +21,16 @@ scheduler used (please refer to training.py)
 Batch Norm (please refer to model_resnet.py)
 
 # Main Notebook link:
-https://github.com/tapasML/Session7/blob/main/S7.ipynb
+https://github.com/tapasML/Session_8/blob/main/Session_8_Resnet18_Modular.ipynb
 
-modules:
-https://github.com/tapasML/Session7/blob/main/myimageutil.py
+# Functional Modules:
 
-https://github.com/tapasML/Session7/blob/main/myloader.py
+main.py: 			https://github.com/tapasML/Session_8/blob/main/main.py
+dataloader.py: 		https://github.com/tapasML/Session_8/blob/main/dataloader.py
+training.py:		https://github.com/tapasML/Session_8/blob/main/training.py
+testing.py:			https://github.com/tapasML/Session_8/blob/main/testing.py
+utils.py:			https://github.com/tapasML/Session_8/blob/main/utils.py
+model_resnet.py:	https://github.com/tapasML/Session_8/blob/main/model_resnet.py
+hyperparameters.py:	https://github.com/tapasML/Session_8/blob/main/hyperparameters.py
 
-https://github.com/tapasML/Session7/blob/main/mymodel.py
 
-https://github.com/tapasML/Session7/blob/main/mytrain.py
-
-https://github.com/tapasML/Session7/blob/main/mytest.py

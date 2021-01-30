@@ -1,6 +1,16 @@
-# Session_8
+## Session_8
 
-Assignment is to train and test with resnet18 model. Code has to be in modularized.
+
+# Assignment:
+
+Train and test with resnet18 model. Code has to be in modularized.
+
+# Result
+
+88.30% validation accuracy reached in 40 epochs
+
+
+
 
 # modules:
 1. main.py:             Controller module. It can orchestrate the workflow to load data, train and test a model
@@ -21,7 +31,7 @@ scheduler used (please refer to training.py)
 Batch Norm (please refer to model_resnet.py)
 
 # Main Notebook link:
-https://github.com/tapasML/Session_8/blob/main/Session_8_Resnet18_Modular.ipynb
+
 
 # Functional Modules:
 

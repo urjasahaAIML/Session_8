@@ -26,11 +26,18 @@ https://github.com/tapasML/Session_8/blob/main/Session_8_Resnet18_Modular.ipynb
 # Functional Modules:
 
 main.py: 			https://github.com/tapasML/Session_8/blob/main/main.py
+
 dataloader.py: 		https://github.com/tapasML/Session_8/blob/main/dataloader.py
+
 training.py:		https://github.com/tapasML/Session_8/blob/main/training.py
+
 testing.py:			https://github.com/tapasML/Session_8/blob/main/testing.py
+
 utils.py:			https://github.com/tapasML/Session_8/blob/main/utils.py
+
 model_resnet.py:	https://github.com/tapasML/Session_8/blob/main/model_resnet.py
+
 hyperparameters.py:	https://github.com/tapasML/Session_8/blob/main/hyperparameters.py
+
 
 

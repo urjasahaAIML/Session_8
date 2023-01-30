@@ -35,19 +35,19 @@ Batch Norm (please refer to model_resnet.py)
 
 # Functional Modules:
 
-main.py: 			https://github.com/tapasML/Session_8/blob/main/main.py
+main.py: 			https://github.com/urjasahaAIML/Session_8/blob/main/main.py
 
-dataloader.py: 		https://github.com/tapasML/Session_8/blob/main/dataloader.py
+dataloader.py: 		https://github.com/urjasahaAIML/Session_8/blob/main/dataloader.py
 
-training.py:		https://github.com/tapasML/Session_8/blob/main/training.py
+training.py:		https://github.com/urjasahaAIML/Session_8/blob/main/training.py
 
-testing.py:			https://github.com/tapasML/Session_8/blob/main/testing.py
+testing.py:			https://github.com/urjasahaAIML/Session_8/blob/main/testing.py
 
-utils.py:			https://github.com/tapasML/Session_8/blob/main/utils.py
+utils.py:			https://github.com/urjasahaAIML/Session_8/blob/main/utils.py
 
-model_resnet.py:	https://github.com/tapasML/Session_8/blob/main/model_resnet.py
+model_resnet.py:	https://github.com/urjasahaAIML/Session_8/blob/main/model_resnet.py
 
-hyperparameters.py:	https://github.com/tapasML/Session_8/blob/main/hyperparameters.py
+hyperparameters.py:	https://github.com/urjasahaAIML/Session_8/blob/main/hyperparameters.py
 
 
 
